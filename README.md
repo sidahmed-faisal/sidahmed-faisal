@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sidahmed-faisal
 - 👀 I’m interested in Machine learning, NLP and flutter
-- 🌱 I’m currently learning Data analysis cloud
+- 🌱 I’m currently learning cloud Development
 - 💞️ I’m looking to collaborate on machine learning projects and chatbots applications
 <!-- - 📫 How to reach me  -->
 
