@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sidahmed-faisal
-- 👀 I’m interested in Machine learning, NLP and cloud
+- 👀 I’m interested in Cloud and DevOps
 - 🌱 I’m currently learning cloud Development
 - 💞️ I’m looking to collaborate on machine learning projects
 <!-- - 📫 How to reach me  -->
